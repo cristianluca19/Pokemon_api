@@ -18,7 +18,9 @@ Abra [http: // localhost: 3000] (http: // localhost: 3000) para verlo en el nave
 
 ### `deployed`
 
-https://poke-api-jemersoft.vercel.app/
+https://pokemon-api-brown.vercel.app/
+
+https://pokemon-api-cristian.herokuapp.com/
 
 
 
